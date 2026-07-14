@@ -1,6 +1,6 @@
 {
   "name": "jscrambler",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "Monorepo of Jscrambler's Javascript Client and Integrations",
   "main": "src/index.js",
   "scripts": {
